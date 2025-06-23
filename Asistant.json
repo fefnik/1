@@ -40,7 +40,7 @@
             "name": "✅<think> Prefil✅",
             "system_prompt": true,
             "role": "assistant",
-            "content": "Alright, understood I will now activate my thinking process, and begin my tthinking process remembering to enclose my tthinking in <think>/</think> before I begin narration, <think>",
+            "content": "Alright, understood I will now activate my thinking process, and begin my tthinking process remembering to enclose my thinking in <think>/</think> before I begin narration, <think>",
             "identifier": "nsfw",
             "injection_position": 0,
             "injection_depth": 4,
